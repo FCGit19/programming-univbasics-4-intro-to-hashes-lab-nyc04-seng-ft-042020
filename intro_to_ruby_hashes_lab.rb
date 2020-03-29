@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  return {'a', 1}
+  return {'a' => 1}
 end
 
 def pioneer
